@@ -88,5 +88,3 @@ When sales people place orders for customers in Snowstorm that order is &quot;su
 - The Grey Skies Group executive leadership team consider &quot;responsiveness&quot; to be a key principle for the organisation&#39;s success. This responsiveness is expected in all aspects of the organisation and in turn it&#39;s systems. This means sales staff must get back to customers within minutes, not hours, logistics have extremely aggressive targets for deliveries, and the software systems are expected to by be &quot;fast&quot; no matter where the customer is located.
 
 - With the move to Azure this means that each application has a node in each of the main countries or regions.
-
-- The CTO has also established an Architectural steering committee. This group is made up of the Architect, Snr. Software Engineer, and a Snr. Software Developer from each team, there is alsoas well as a representative from the Sales and Logistics teams. The committee is overseen by the CTO and was created to increase cross team cooperation, and to provide consistent and effective standards for systems design and development.
