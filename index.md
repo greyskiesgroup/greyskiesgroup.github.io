@@ -56,7 +56,9 @@ The smallest and newest team, **Cloud Systems** , was introduced to support the 
 - Software Developer
 - Tester
 
-_As the new sparkly team on the block the Snr__._ _Software Engineer and Architect have shown a keen interest in the Cloud Systems team and want to make their mark by getting involved. You can be sure they will be interested in having their 2 cents about all the decisions getting made._
+[Learn about this team](team-cloudsystems.md)
+
+_As the new sparkly team on the block the Snr. Software Engineer and Architect have shown a keen interest in the Cloud Systems team and want to make their mark by getting involved. You can be sure they will be interested in having their 2 cents about all the decisions getting made._
 
 ## Existing Technologies
 
@@ -76,9 +78,6 @@ AngularJS single page application in front of an ASP.Net.NET Web API (.Net.NET F
 
 When sales people place orders for customers in Snowstorm that order is &quot;submitted&quot; to Rainydays by adding a new order to the &quot;IncommingOrders&quot; table for the shared Rainydays database.
 
-### Cloud Systems (no system name yet)
-
-[Learn about this team](team-cloudsystems.md)
 
 ## More detail about Grey Skies Group
 

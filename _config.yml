@@ -3,3 +3,4 @@ description: Case study information for fictional company
 theme: jekyll-theme-cayman
 nav:
   - Home: index.md
+  - Team: team-cloudsystems.md
