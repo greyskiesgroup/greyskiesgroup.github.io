@@ -78,7 +78,7 @@ When sales people place orders for customers in Snowstorm that order is &quot;su
 
 ### Cloud Systems (no system name yet)
 
-This is the system that you have already worked on as part of the code puzzle to enter the mentoring program.
+[Learn about this team](team-cloudsystems.md)
 
 ## More detail about Grey Skies Group
 
