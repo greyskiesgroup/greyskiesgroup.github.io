@@ -1,6 +1,6 @@
 # Welcome to Grey Skies Group
 
-![Grey Skies Logo](images/logo.png | width=100)
+![Grey Skies Logo](images/logo_130.png)
 
 Although fictional the Grey Skies Group is representative of a medium size enterprise which sells items to other businesses.  
 With its headquarters in Brisbane, Australia there are also regional sales and logistics operations across Australia, in the United States of America, and in the United Kingdom, giving Grey Skies Group a global footprint.
