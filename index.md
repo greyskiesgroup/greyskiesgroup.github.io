@@ -49,7 +49,7 @@ The next largest team, **Sales Systems** , is the responsible for the Sales and 
 - Jnr. Software Developer
 - Tester x 2
 
-The smallest and newest team, **Cloud Systems** , was introduced to support the growing Cloud sales sector, . unlike Unlike the incumbent teams this team has been given support from the organisations management to operate in an Agile agile manor. If this is successful other teams will also be allowed to operate in a more agile manor.
+The smallest and newest team, **Cloud Systems** , was introduced to support the growing Cloud sales sector. Unlike the incumbent teams this team has been given support from the organisations management to operate in an Agile agile manor. If this is successful other teams will also be allowed to operate in a more agile manor.
 
 - Team Lead
 - Snr. Software Developer x 2
