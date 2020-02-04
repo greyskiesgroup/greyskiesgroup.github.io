@@ -1,17 +1,19 @@
 # Welcome to Grey Skies Group
 
+![Grey Skies Logo](images/logo_130.png)
+
 Although fictional the Grey Skies Group is representative of a medium size enterprise which sells items to other businesses.  
 With its headquarters in Brisbane, Australia there are also regional sales and logistics operations across Australia, in the United States of America, and in the United Kingdom, giving Grey Skies Group a global footprint.
 
-An area of growth for the group over the past 3 years has been its cloud retail business. As one of the world’s premier cloud retailers Grey Skies Group prides itself on the efficiency which its customers can order from a large catalogue of clouds and have them delivered quickly and cost effectively. 
+An area of growth for the group over the past 3 years has been its cloud retail business. As one of the world’s premier cloud retailers Grey Skies Group prides itself on the efficiency which its customers can order from a large catalogue of clouds and have them delivered quickly and cost effectively.
 
 ## Grey Skies Group offices
 
-| **Australia**   | **USA** | **UK** |
-| --- | --- | --- |
-| Brisbane (Headquarters)  | New York Dallas | London
- |Sydney
- | Perth
+| **Australia**           | **USA**         | **UK** |
+| ----------------------- | --------------- | ------ |
+| Brisbane (Headquarters) | New York Dallas | London |
+| Sydney                  |
+| Perth                   |
 
 **Headquarters**
 
@@ -77,7 +79,6 @@ AngularJS single page application in front of an ASP.Net.NET Web API (.Net.NET F
 ### Integrations
 
 When sales people place orders for customers in Snowstorm that order is &quot;submitted&quot; to Rainydays by adding a new order to the &quot;IncommingOrders&quot; table for the shared Rainydays database.
-
 
 ## More detail about Grey Skies Group
 
