@@ -22,7 +22,7 @@
 
 ## API Specifics
 
-- FX Rates are updated daily by All The Clouds from their FX provider. These daily snapshot prices are used at the time of order to calculate the correct price in local currency for any international orders in currencies other than USD.
+- FX Rates are updated daily by All The Clouds from their FX provider. These daily snapshot prices are used at the time of order to calculate the correct price in local currency for any international orders in currencies other than AUD.
 
 - As a result of the ad-hoc nature of the API project initially, it has not employed any versioning strategy. So far this hasn't caused any problems as the data models and endpoints have been additive only. All The Clouds have recognised that this is probably not an ideal situation and they have added API Versioning to their roadmap, but have not yet communicated what this will mean
 
