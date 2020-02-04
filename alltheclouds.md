@@ -2,8 +2,6 @@
 
 ## "Delivering clouds since the dawn of time"
 
-![All The Clouds Logo](images/alltheclouds.gif)
-
 ## About All The Clouds
 
 - All The Clouds is one of the world's most respected providers of cloud.
