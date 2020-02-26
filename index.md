@@ -11,8 +11,8 @@ An area of growth for the group over the past 3 years has been its cloud retail 
 
 | **Australia**           | **USA**         | **UK** |
 | ----------------------- | --------------- | ------ |
-| Brisbane (Headquarters) | New York Dallas | London |
-| Sydney                  |
+| Brisbane (Headquarters) | New York | London |
+| Sydney                  | Dallas |
 | Perth                   |
 
 **Headquarters**
