@@ -27,6 +27,9 @@ If 2 rules have the same criteria and are valid at the same time period the newe
 2. Percent margin
 3. Fixed AUD$ mark-up (per quantity)
 
+# Scenario - 03
+
+Link to the AllTheClouds Early Adopter documentation [here](/alltheclouds-caas.html)
 
 
 
