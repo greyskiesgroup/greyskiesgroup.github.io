@@ -2,7 +2,7 @@
 
 source "https://rubygems.org"
 
-gem "nokogiri", "~> 1.11.0.rc1"
+gem "nokogiri", "~> 1.12.5"
 gem "github-pages", "~> 204", group: :jekyll_plugins
 gem "jekyll-theme-cayman"
 
